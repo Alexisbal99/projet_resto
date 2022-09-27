@@ -18,7 +18,7 @@ header {
 }
 
 .card {
-    width: 250px;
+    width: 240px;
     margin: 20px;
     display: flex;
     flex-direction: column;
